@@ -5,9 +5,9 @@
     background-color: rgb(0, 0, 0);
     position: fixed;
     background-image: url('omeed.jpg');
-    background-size: cover;
+    background-size: 80%;
     background-position: center;
-    background-position: top;
+    background-position: bottom;
 }
 
 .photospage {
