@@ -4,8 +4,8 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(0, 0, 0);
     position: fixed;
-    /*background-image: url('https://media4.giphy.com/media/VbgsU7qfBM2pKUpEfS/giphy.gif?cid=ecf05e474hui3za8pcas0mw4qf5ijyoomxzf2b91u0ru72f9&rid=giphy.gif&ct=g');
-    background-size: cover;*/
+    background-image: url('omeed.jpg');
+    background-size: cover;
 }
 
 .photospage {
@@ -20,9 +20,9 @@
     margin-right: 20px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(0, 0, 0);
-    /*background-image: url('https://media4.giphy.com/media/VbgsU7qfBM2pKUpEfS/giphy.gif?cid=ecf05e474hui3za8pcas0mw4qf5ijyoomxzf2b91u0ru72f9&rid=giphy.gif&ct=g');
+    background-image: url('omeed.jpg');
     background-size: cover;
-    position: absolute;*/
+    position: absolute;
 }
 
 h1,h2 {
