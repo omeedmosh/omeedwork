@@ -85,6 +85,12 @@ a:active {
     margin-right: 20px;
 }
 
+.topleft2 {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .fit {
     margin-bottom: 20px;
     display: block;
