@@ -4,10 +4,11 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(0, 0, 0);
     position: fixed;
-    background-image: url('omeed.jpg');
-    background-size: 40%;
 
-    background-position: center bottom;
+
+    background-image: url('omeed.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
